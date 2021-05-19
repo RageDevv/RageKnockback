@@ -1,0 +1,6 @@
+name: BetterKnockback
+main: Rage\ImprovedKnockback\Main
+author: Rage
+version: 1.0.0
+api: [3.14.0]
+
